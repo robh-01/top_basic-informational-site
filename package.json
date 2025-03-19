@@ -1,0 +1,12 @@
+{
+  "name": "top_basic-informational-site",
+  "version": "1.0.0",
+  "description": "This is a basic node js server app that serves html files in accordance with the url",
+  "license": "ISC",
+  "author": "Roshan Bhusal",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
